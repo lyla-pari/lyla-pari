@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Breera Zia 👩‍💻 (aka lyla-pari)
 
-<!--
-**lyla-pari/lyla-pari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently a student at **Apex Group of Colleges**, studying **ICS (Intermediate in Computer Science)**.  
+💻 I'm learning **Python** and have basic knowledge of **C language**.  
+🔧 Recently, I explained SDLC steps using a calculator example in Python.  
+📌 I'm interested in internships related to **Python**, **software development**, and **tech support**.
 
-Here are some ideas to get you started:
+## 💡 Projects
+- **SDLC-based Calculator Project (Python)** – Described the Software Development Life Cycle using calculator logic.
+- More coming soon!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: [lylait306@gmail.com](mailto:lylait306@gmail.com)
+
+---
+💜 Always learning. Always coding.
